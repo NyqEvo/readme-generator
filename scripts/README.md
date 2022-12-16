@@ -1,9 +1,9 @@
-# THIS IS JUST A TEST
+# TEST RUN
 [![License: GPL v2](https://img.shields.io/badge/License-GPL_v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
 
 ## Description
 
-a test run of readme generator
+just a test run of this program
 
 ## Table of contents
 - [Description](##-Description)
@@ -15,15 +15,15 @@ a test run of readme generator
 
 ## Installation
 
-none needed
+give this a shot yourself!
 
 ## Usage
 
-to test this code
+to test my program
 
 ## Contribution Guidelines
 
-give it a shot as well
+try it out
 
 ## License
 
