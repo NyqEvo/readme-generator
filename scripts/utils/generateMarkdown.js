@@ -44,11 +44,12 @@ ${renderLicenseBadge(data.license)}
 ${data.description}
 
 ## Table of contents
-- Description
-- Installation
-- Usage
-- Contribution Guidelines
-- License
+- [Description](##-Description)
+- [Installation](##-Installation)
+- [Usage](##-Usage)
+- [Contribution Guidelines](##-Contribution-Guidelines)
+- [License](##-License)
+- [Contact](##-Contact)
 
 ## Installation
 
@@ -68,8 +69,8 @@ ${renderLicenseLink(data.license)}
 
 ## Contact
 
-${data.github} '\n'
-${data.email}
+github username: ${data.github} \n
+email: ${data.email}
 `;
 }
 

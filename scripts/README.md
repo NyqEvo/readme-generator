@@ -1,34 +1,36 @@
-# DOMMY MOMMY SIM
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+# THIS IS JUST A TEST
+[![License: GPL v2](https://img.shields.io/badge/License-GPL_v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
 
 ## Description
 
-simulate dommy mommies
+a test run of readme generator
 
 ## Table of contents
-- Description
-- Installation
-- Usage
-- Contribution Guidelines
-- License
+- [Description](##-Description)
+- [Installation](##-Installation)
+- [Usage](##-Usage)
+- [Contribution Guidelines](##-Contribution-Guidelines)
+- [License](##-License)
+- [Contact](##-Contact)
 
 ## Installation
 
-no
+none needed
 
 ## Usage
 
-never
+to test this code
 
 ## Contribution Guidelines
 
-give dommy mommy gf
+give it a shot as well
 
 ## License
 
-[Apache 2.0](https://opensource.org/licenses/Apache-2.0)
+[GNU GPL v2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
 
 ## Contact
 
-nyqevo
-your mom
+github username: nyqevo 
+
+email: test@email.com
